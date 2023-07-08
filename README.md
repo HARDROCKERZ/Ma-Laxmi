@@ -18,14 +18,14 @@
 
 ## Screenshots
 
-### Home page
-![App Screenshot](https://i.postimg.cc/kXNLtP4s/HomePage.png)
+## Home page
+![App Screenshot](https://github.com/MihirKohli/Ma-Laxmi/blob/master/project-img/HomePage.png?raw=true)
 
-### Product view
-![App Screenshot](https://i.postimg.cc/wThKnxmV/Product.png)
+## Product view
+![App Screenshot](https://github.com/MihirKohli/Ma-Laxmi/blob/master/project-img/ProductView.png?raw=true)
 
-### Payment page
-![App Screenshot](https://i.postimg.cc/FKXYNHWH/Payment.png)
+## Payment page
+![App Screenshot](https://github.com/MihirKohli/Ma-Laxmi/blob/master/project-img/PaymentPage.png?raw=true)
 
 ## Run Locally
 
